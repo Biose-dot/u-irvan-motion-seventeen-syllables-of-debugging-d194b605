@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "Cold coffee waits here\nthe cursor blinks at midnight\nbug hides in plain sight"
+ENTRY = "Midnight finds me here\nchasing ghosts through silent code\ndawn breaks, bug still laughs"
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
