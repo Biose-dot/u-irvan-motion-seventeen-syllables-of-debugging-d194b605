@@ -7,13 +7,13 @@
 Entry for the [make.fun](https://make.fun) bounty
 [Seventeen Syllables of Debugging](https://make.fun/c/u-irvan-motion-seventeen-syllables-of-debugging-d194b605).
 
-A haiku about debugging in the 5-7-5 shape, three lines, at most 200 characters. A midnight log scroll, one last print statement, and the smallest possible culprit.
+A haiku about debugging in the 5-7-5 shape, three lines, at most 200 characters. A stack trace, cold coffee, and a missing semicolon laughing at the person who wrote it.
 
 `main.py` (Python 3) writes the entry to `/output/entry.txt`:
 
-> Logs scroll past midnight
-> one print statement left to try
-> it was a typo
+> Stack trace, cold coffee
+> a missing semicolon laughs
+> I wrote it myself
 
 Run it locally with:
 

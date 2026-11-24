@@ -3,11 +3,11 @@
 
 Writes the entry text to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 
-Concrete debugging images (logs, a print statement, a typo) with the last line turning the poem: the bug was one letter all along.
+Concrete debugging images (stack trace, semicolon) with the last line turning the poem: the culprit is the poet.
 """
 import os
 
-ENTRY = 'Logs scroll past midnight\none print statement left to try\nit was a typo'
+ENTRY = 'Stack trace, cold coffee\na missing semicolon laughs\nI wrote it myself'
 
 
 def main() -> None:
